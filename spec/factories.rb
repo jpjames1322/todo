@@ -1,5 +1,5 @@
 FactoryBot.define do
-  factory :tasks do
+  factory :task do
     title { "Do the dishes" }
     done { false }
   end
